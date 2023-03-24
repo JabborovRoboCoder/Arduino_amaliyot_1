@@ -13,8 +13,6 @@ void setup() {
 }
 
 void loop() {
-  
-
 digitalWrite(2,1);
 digitalWrite(10,1);
 delay(t); 
@@ -23,7 +21,6 @@ digitalWrite(10,0);
 digitalWrite(3,1);
 digitalWrite(9,1);
 delay(t);
-
 digitalWrite(3,0);
 digitalWrite(9,0);
 digitalWrite(4,1);
